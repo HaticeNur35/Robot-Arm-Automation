@@ -1,5 +1,6 @@
 # Robot Arm & Conveyor Belt Automation System
-This project is an autonomous mechatronic system designed to simulate industrial production lines, capable of color-based object sorting.🛠Technical Specifications Controller: Arduino (C++) 
+This project is an autonomous mechatronic system designed to simulate industrial production lines, capable of color-based object sorting.
+Technical Specifications Controller: Arduino (C++) 
 Sensor: TCS3200 
 Color Sensor Actuators: 4 x Servo Motors (Robot Arm) + 1 x DC Motor (Conveyor Belt) 
 Algorithm: Real-time color frequency analysis and synchronized motor control.
